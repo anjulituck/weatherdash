@@ -32,6 +32,6 @@ name, the date, an icon representation of weather conditions, the temperature, t
 - Add Icons 
 
 ## Links 
-[DEPLOYED] (https://anjulituck.github.io/weatherdash/)
+[DEPLOYED](https://anjulituck.github.io/weatherdash/)
 
 [REPO](https://github.com/anjulituck/weatherdash)

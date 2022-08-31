@@ -6,7 +6,7 @@ var citySearch = document.getElementById('city-search')
 var cityForm = document.getElementById('city-form')
 var searchBtn = document.getElementById('search-btn')
 var todayForcast= document.getElementById('today-forcast')
-var date= document.getElementById('date')
+var newDate= document.getElementById('date')
 var temp= document.getElementById('temp')
 var wind= document.getElementById('wind')
 var humidity= document.getElementById('humidity')
@@ -78,7 +78,7 @@ var getWeather = function(city) {
       var month = months[d.getMonth()];
       var date = d.getDate();
       var time = date + ' ' + month + ' ' + year + ' ' ;
-      date.textContent = time;
+      newDate.textContent = time;
       // dateC.textContent = time;
 
       // cityName.textContent = data.name; - maybe need to declare as a variable 
