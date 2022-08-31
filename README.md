@@ -2,7 +2,7 @@
 
 ## Project Description 
 
-In this project, we are creating a weather dashboard using a Server Side API called [OpenWeather One Call API](https://openweathermap.org/api/one-call-api). We are using localstorage to store data and HTML, JS and CSS for front-end functionationality
+In this project, we are creating a weather dashboard using a Server Side API called [OpenWeather One Call API](https://openweathermap.org/api/one-call-api). We are using localstorage to store data and HTML, JS and CSS for front-end functionationality.
 
 ## User Story 
 
